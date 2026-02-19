@@ -1,2 +1,2 @@
 # core-of-devs 
-## core 01
+## core project 01
